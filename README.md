@@ -1,7 +1,7 @@
 # WEB-SecretShop
 This is a demo project made as part of IntelliStart Java Course application
 
-Project utilize:
+Project utilizes:
 - Spring Data JPA
 - H2 Database
 - Vaadin
